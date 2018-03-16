@@ -1,0 +1,30 @@
+
+.image1{
+    height:350px;
+    border:3px solid lightsalmon;
+    margin-bottom:1px; 
+}
+.div2{
+    background-color: lavenderblush;
+}
+.div3{
+    background-color: lavenderblush;
+}
+
+.image2{
+    height:350px;
+    border:3px solid lightsalmon;
+    
+}
+body{
+    background-color: lightgray;
+}
+h1{
+    text-align:center;
+}
+h2{
+    text-decoration: underline;
+}
+a{
+    text-align: center;
+}
